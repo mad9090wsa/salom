@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
         <Nav/>
+        <h1>solam</h1>
         <Ferm/>
     </div>
   );

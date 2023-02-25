@@ -1,0 +1,84 @@
+.navbar{
+    height: 105px;
+
+    padding: 35px 60px;
+}
+ol,ul{
+    list-style: none;
+}
+.dom{
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 1320px;
+    height: 35px;
+
+}
+.text-rit{
+    position: absolute;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    right: 0px;
+    width: 248px;
+    height: 22px;
+}
+.text-rit text{
+    width: 48px;
+    height: 20px;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+color: #1D253C;
+}
+.text-rit button{
+    width: 161px;
+    height: 44px;
+    border: 1px solid rgba(29, 37, 60, 0.2);
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    background-color: rgba(255, 0, 0, 0);
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #1D253C;
+}
+.text-lit{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 400px;
+    height: 35px;
+}
+.text-lit img{
+    width: 95px;
+    height: 35px;
+
+}
+.text-lit ul{
+      
+    width: 259px;
+    height: 22px;
+     display: flex;
+     justify-content: space-between;
+}
+.li{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #1D253C;
+
+}
+.li:hover{
+    border-bottom: 3px solid #018099;
+    color:#018099;
+
+}

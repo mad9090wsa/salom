@@ -1,0 +1,81 @@
+.ferm{
+
+    width: 1440px;
+    height: 775px;
+    position: relative;
+}
+.hero{
+    position: absolute;
+    width: 984px;
+    top: 17px;
+    height: 697px;
+    right: 0px;
+}
+.text-ferm{
+    
+    position: absolute;
+    padding-top: 26px;
+    top: 196px;
+    left: 7.39%;
+    width: 450px;
+    height: 383px;
+}
+.text-ferm text{
+    display: flex;
+    align-items: center;
+    width: 132px;
+    height: 27px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;    
+    text-transform: uppercase;
+    color: #F46752;
+}
+.text-x{
+    width: 463px;
+    height: 136px;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 68px;
+
+text-transform: capitalize;
+
+color: #1D253C;
+}
+.text-a{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 33px;
+width: 411px;
+height: 106px;
+color: #5A6482;
+}
+.text-ferm button{
+    width: 220px;
+    height: 61px;
+    background: #F46752;
+border: 1px solid rgba(29, 37, 60, 0.2);
+border-radius: 4px;
+color: white;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height, or 120% */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.img{
+    width: 31px;
+    height: 11px;
+    padding-left: 5px;
+}
